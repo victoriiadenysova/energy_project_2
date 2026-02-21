@@ -9,7 +9,7 @@ export default defineConfig(({ command }) => {
       [command === 'serve' ? 'global' : '_global']: {},
     },
     root: 'src',
-    base : '/energy_project/',
+    base : '/energy_project_2/',
     envDir: '../',
     headers: [
       {
